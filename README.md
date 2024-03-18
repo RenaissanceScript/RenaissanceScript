@@ -1,5 +1,5 @@
 ## Olá, eu sou Gabriel!
-Sou um estudante apaixonado por tecnologia, atualmente cursando o 3º semestre de [Análise e Desenvolvimento de Sistemas e complementando meus estudos com cursos na Alura. Estou constantemente buscando aprimorar minhas habilidades e aprender novas tecnologias para me tornar um desenvolvedor mais completo.
+Sou um estudante apaixonado por tecnologia, atualmente cursando o 3º semestre de Análise e Desenvolvimento de Sistemas e complementando meus estudos com cursos na Alura. Estou constantemente buscando aprimorar minhas habilidades e aprender novas tecnologias para me tornar um desenvolvedor mais completo.
 
 Sobre Mim:
 Estudante de Análise e Desenvolvimento de Sistema, no 3º semestre.
